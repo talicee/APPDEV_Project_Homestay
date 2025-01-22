@@ -1,0 +1,339 @@
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+C:\Users\celin\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ZstdNet.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Proj.B3E151C9.Up2Date
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+C:\Users\LENOVO\Downloads\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ZstdNet.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Proj.B3E151C9.Up2Date
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+C:\Users\LENOVO\Documents\KULYAHH\SEM 2\Application Development\ALP_Project_02 Celin\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Financial.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ZstdNet.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\System.Buffers.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.xml
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Financial.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CopyComplete
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.MainForm.resources
+D:\Universitas Ciputra\Semester 2\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.BookingPreview.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.BookingPreview.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.MainForm.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Financial.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\Downloads\ALP_Project_02\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Proj.B3E151C9.Up2Date
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\ZstdNet.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.BookingPreview.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.MainForm.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Financial.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CopyComplete
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+C:\Users\DELL\Downloads\CIBAL\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ZstdNet.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.BookingPreview.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Form1.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.MainForm.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Financial.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Homestay.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Proj.B3E151C9.Up2Date
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+C:\Users\LENOVO\Downloads\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Guest.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\ZstdNet.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\System.Buffers.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\bin\Debug\MySql.Data.xml
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.BookingPreview.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.MainForm.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Guest.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Homestay.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CopyComplete
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.DashboardSearch.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Booking.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\ALP_ANEHHHHHHHHHHHHHHHHHHHHHHHH\ALP_JEYEK\ALP_Project_02\ALP_Project_02\obj\Debug\ALP_Project_02.RegistFinancial.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\MySql.Data.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ZstdNet.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\System.Buffers.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\MySql.Data.xml
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.BookingPreview.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.DashboardSearch.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.MainForm.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.RegistFinancial.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Booking.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Guest.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Homestay.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CopyComplete
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+D:\Universitas Ciputra\Semester 2\Application Development\ALP\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.pdb
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ALP_Project_02.exe.config
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ALP_Project_02.exe
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ALP_Project_02.pdb
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\MySql.Data.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\Google.Protobuf.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\ZstdNet.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\BouncyCastle.Crypto.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\Ubiety.Dns.Core.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\System.Buffers.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\K4os.Compression.LZ4.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\K4os.Hash.xxHash.dll
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\bin\Debug\MySql.Data.xml
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.AssemblyReference.cache
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.exe.config
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.BookingPreview.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.DashboardSearch.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Home.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Booking.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Homestay.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Information_Staff.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Login.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.MainForm.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Properties.Resources.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.RegistFinancial.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Guest.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Registration_Homestay.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Booking.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Guest.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Table_Homestay.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.Transaction.resources
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.GenerateResource.cache
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.csproj.CopyComplete
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.exe
+D:\SEMESTER 2\APPDEV\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\FINAL ALP PROJECT APPDEV_ GROUP 3_HOMESTAY\ALP_Project_02\obj\Debug\ALP_Project_02.pdb

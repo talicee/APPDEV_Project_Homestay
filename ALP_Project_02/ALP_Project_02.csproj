@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8CE4FEBB-148E-41ED-93F5-26AC1A7E5394}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ALP_Project_02</RootNamespace>
+    <AssemblyName>ALP_Project_02</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookingPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookingPreview.Designer.cs">
+      <DependentUpon>BookingPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardSearch.Designer.cs">
+      <DependentUpon>DashboardSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information Booking.Designer.cs">
+      <DependentUpon>Information Booking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information House.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information House.Designer.cs">
+      <DependentUpon>Information House.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information Staff.Designer.cs">
+      <DependentUpon>Information Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistFinancial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistFinancial.Designer.cs">
+      <DependentUpon>RegistFinancial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration Guest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration Guest.Designer.cs">
+      <DependentUpon>Registration Guest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration Homestay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration Homestay.Designer.cs">
+      <DependentUpon>Registration Homestay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Table_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table_Booking.Designer.cs">
+      <DependentUpon>Table_Booking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Table_Guest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table_Guest.Designer.cs">
+      <DependentUpon>Table_Guest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Table_Homestay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table_Homestay.Designer.cs">
+      <DependentUpon>Table_Homestay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction.Designer.cs">
+      <DependentUpon>Transaction.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BookingPreview.resx">
+      <DependentUpon>BookingPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardSearch.resx">
+      <DependentUpon>DashboardSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information Booking.resx">
+      <DependentUpon>Information Booking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information House.resx">
+      <DependentUpon>Information House.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information Staff.resx">
+      <DependentUpon>Information Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistFinancial.resx">
+      <DependentUpon>RegistFinancial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration Guest.resx">
+      <DependentUpon>Registration Guest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration Homestay.resx">
+      <DependentUpon>Registration Homestay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table_Booking.resx">
+      <DependentUpon>Table_Booking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table_Guest.resx">
+      <DependentUpon>Table_Guest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table_Homestay.resx">
+      <DependentUpon>Table_Homestay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction.resx">
+      <DependentUpon>Transaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Form1Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-04 152547.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-04 152749.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-04 153355.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-04 153908.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-04 163238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-04 225508.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-05 102711.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R09.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S09.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\49c4b1829d634425cc7e35a4fcb933a6.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
